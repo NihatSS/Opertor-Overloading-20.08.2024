@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\c#-tasks\\OperatorOverload\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{303F5794-D74C-43F5-A734-139D269D0149}|OperatorOverload\\OperatorOverload.csproj|c:\\users\\user\\onedrive\\desktop\\pb102_tasks\\c#-tasks\\operatoroverload\\operatoroverload\\groupmate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303F5794-D74C-43F5-A734-139D269D0149}|OperatorOverload\\OperatorOverload.csproj|solutionrelative:operatoroverload\\groupmate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303F5794-D74C-43F5-A734-139D269D0149}|OperatorOverload\\OperatorOverload.csproj|c:\\users\\user\\onedrive\\desktop\\pb102_tasks\\c#-tasks\\operatoroverload\\operatoroverload\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303F5794-D74C-43F5-A734-139D269D0149}|OperatorOverload\\OperatorOverload.csproj|solutionrelative:operatoroverload\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303F5794-D74C-43F5-A734-139D269D0149}|OperatorOverload\\OperatorOverload.csproj|c:\\users\\user\\onedrive\\desktop\\pb102_tasks\\c#-tasks\\operatoroverload\\operatoroverload\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303F5794-D74C-43F5-A734-139D269D0149}|OperatorOverload\\OperatorOverload.csproj|solutionrelative:operatoroverload\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\c#-tasks\\OperatorOverload\\OperatorOverload\\Student.cs",
+              "RelativeDocumentMoniker": "OperatorOverload\\Student.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\c#-tasks\\OperatorOverload\\OperatorOverload\\Student.cs",
+              "RelativeToolTip": "OperatorOverload\\Student.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T17:00:50.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GroupMate.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\c#-tasks\\OperatorOverload\\OperatorOverload\\GroupMate.cs",
+              "RelativeDocumentMoniker": "OperatorOverload\\GroupMate.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\c#-tasks\\OperatorOverload\\OperatorOverload\\GroupMate.cs",
+              "RelativeToolTip": "OperatorOverload\\GroupMate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T15:01:12.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\c#-tasks\\OperatorOverload\\OperatorOverload\\Program.cs",
+              "RelativeDocumentMoniker": "OperatorOverload\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\c#-tasks\\OperatorOverload\\OperatorOverload\\Program.cs",
+              "RelativeToolTip": "OperatorOverload\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T14:59:02.902Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
